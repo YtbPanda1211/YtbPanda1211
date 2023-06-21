@@ -18,13 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YtbPanda1211&limit=5&theme=onestar&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=YtbPanda1211&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Activities:
 
@@ -100,3 +94,11 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=WebDungLaiLapTrinh&theme=gruvbox" />
 </a>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=YtbPanda1211&limit=5&theme=onestar&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=YtbPanda1211&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
