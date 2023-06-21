@@ -22,3 +22,70 @@
 [![](https://visitcount.itsvg.in/api?id=YtbPanda1211&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+### WELCOME TO MY PAGE 👋👋👋
+My name is Rice Filed. I am an Dev. .<br>
+## 📫 How to reach me: 
+
+ [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/YtbPanda1211/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/@ytbpanda6466)
+
+
+
+![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+<a href="https://github.com/YtbPanda1211/VideoToText/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=VideoToText&theme=radical" />
+</a>    
+<a href="https://github.com/YtbPanda1211/TraiTimNeon/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TraiTimNeon&theme=merko" />
+</a>
+
+<a href="https://github.com/YtbPanda1211/MyBirthDay/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=MyBirthDay&theme=gruvbox" />
+</a>    
+<a href="https://github.com/YtbPanda1211/ChucMung8-3/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=ChucMung8-3&theme=dark" />
+</a>
+
+<a href="https://github.com/YtbPanda1211/CodeBot/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=CodeBot&theme=onedark" />
+</a>    
+<a href="https://github.com/YtbPanda1211/WebBanNongSan/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=WebBanNongSan&theme=cobalt" />
+</a>
+
+<a href="https://github.com/YtbPanda1211/HPBD/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=HPBD&theme=synthwave" />
+</a>    
+<a href="https://github.com/YtbPanda1211/AndroidStudio/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=AndroidStudio&theme=highcontrast" />
+</a>
+
+<a href="https://github.com/YtbPanda1211/SQL_Class/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=SQL_Class&theme=dracula" />
+</a>    
+<a href="https://github.com/YtbPanda1211/webdoan/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=webdoan&theme=radical" />
+</a>
+
+<a href="https://github.com/YtbPanda1211/TC19THUD1/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TC19THUD1&theme=merko" />
+</a>    
+<a href="https://github.com/YtbPanda1211/WebDungLaiLapTrinh/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=WebDungLaiLapTrinh&theme=gruvbox" />
+</a>
