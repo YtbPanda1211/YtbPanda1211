@@ -26,6 +26,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## Activities:
+
 <table style="width:100%;">
   <tr>
     <td>
