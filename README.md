@@ -138,7 +138,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=DongHoBamGio&theme=radical" />
 </a>
-<a href="https://github.com/YtbPanda1211/DigitalClock/">
+<a href="https://github.com/YtbPanda1211/Digital-Clock/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=DigitalClock&theme=radical" />
 </a>
