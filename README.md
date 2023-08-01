@@ -114,10 +114,10 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TC19THUD1&theme=merko" />
 </a>    
-<a href="https://github.com/YtbPanda1211/WebDungLaiLapTrinh/">
+<!-- <a href="https://github.com/YtbPanda1211/WebDungLaiLapTrinh/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=WebDungLaiLapTrinh&theme=gruvbox" />
-</a>
+</a> -->
 <a href="https://github.com/YtbPanda1211/TinhThoiGian/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TinhThoiGian&theme=radical" />
