@@ -358,4 +358,7 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsakeel&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsakeel" /> </p>
+<hr style="border: 1px solid #3498db; margin: 20px 0;">
+
+Credits: [YtbPanda1211](https://github.com/YtbPanda1211)
 <br>
