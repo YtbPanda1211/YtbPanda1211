@@ -324,9 +324,9 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=ClimaCode&theme=merko" />
 </a>
-<a href="https://github.com/YtbPanda1211/8_3_day-master">
+<a href="https://github.com/YtbPanda1211/8_3_day">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=8_3_day-master&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=8_3_day&theme=merko" />
 </a>
 <a href="https://github.com/YtbPanda1211/flower-master">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
