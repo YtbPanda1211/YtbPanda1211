@@ -1,4 +1,4 @@
-<!--horizontal divider(gradiant)-->
+![flower_346218](https://github.com/user-attachments/assets/4c65aaff-59b7-488c-85b5-cba17c218925)<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
@@ -325,6 +325,10 @@
 <a href="https://github.com/YtbPanda1211/ClimaCode/ ">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=ClimaCode&theme=merko" />
+</a>
+<a href="https://github.com/YtbPanda1211/8-3-no2">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=8-3-no2&theme=merko" />
 </a>
 
 ### ✍️ Random Dev Quote
