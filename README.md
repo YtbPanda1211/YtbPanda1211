@@ -340,6 +340,10 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=HopeSheet&theme=merko" />
 </a>
+<a href="https://github.com/YtbPanda1211/PhotoBooth2">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=PhotoBooth2&theme=merko" />
+</a>
 
 
 ### ✍️ Random Dev Quote
