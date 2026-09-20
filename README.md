@@ -72,279 +72,93 @@
 
 
 
-<a href="https://github.com/YtbPanda1211/VideoToText/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=VideoToText&theme=radical" />
-</a>    
-<a href="https://github.com/YtbPanda1211/TraiTimNeon/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TraiTimNeon&theme=merko" />
-</a>
-<a href="https://github.com/YtbPanda1211/MyBirthDay/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=MyBirthDay&theme=gruvbox" />
-</a>    
-<a href="https://github.com/YtbPanda1211/ChucMung8-3/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=ChucMung8-3&theme=dark" />
-</a>
-<a href="https://github.com/YtbPanda1211/WebBanNongSan/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=WebBanNongSan&theme=cobalt" />
-</a>
-<a href="https://github.com/YtbPanda1211/HPBD/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=HPBD&theme=synthwave" />
-</a>    
-<a href="https://github.com/YtbPanda1211/AndroidStudio/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=AndroidStudio&theme=highcontrast" />
-</a>
-<a href="https://github.com/YtbPanda1211/DongHoKim/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=DongHoKim&theme=dracula" />
-</a>    
 <a href="https://github.com/YtbPanda1211/webdoan/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=webdoan&theme=radical" />
-</a>
+</a>   
 <a href="https://github.com/YtbPanda1211/TC19THUD1/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TC19THUD1&theme=merko" />
-</a>
-<a href="https://github.com/YtbPanda1211/TinhThoiGian/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TinhThoiGian&theme=radical" />
-</a>    
-<a href="https://github.com/YtbPanda1211/DongHo/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=DongHo&theme=radical" />
-</a>    
-<a href="https://github.com/YtbPanda1211/GameOanTuTi/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=GameOanTuTi&theme=radical" />
-</a>
-<a href="https://github.com/YtbPanda1211/DongHoBamGio/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=DongHoBamGio&theme=radical" />
-</a>
-<a href="https://github.com/YtbPanda1211/Digital-Clock/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Digital-Clock&theme=radical" />
-</a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TC19THUD1&theme=One Dark" />
+</a> 
+<a href="https://github.com/YtbPanda1211/AndroidStudio/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=AndroidStudio&theme=One Light" />
+</a> 
+<a href="https://github.com/YtbPanda1211/SQL_Class/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=SQL_Class&theme=Nord" />
+</a> 
 <a href="https://github.com/YtbPanda1211/CodepenClone/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=CodepenClone&theme=radical" />
-</a>
-<a href="https://github.com/YtbPanda1211/SimonGame/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=SimonGame&theme=radical" />
-</a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=CodepenClone&theme=Tokyo Night" />
+</a> 
+<a href="https://github.com/YtbPanda1211/TinhThoiGian/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TinhThoiGian&theme=Catppuccin" />
+</a> 
 <a href="https://github.com/YtbPanda1211/TextToVoice/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TextToVoice&theme=radical" />
-</a>
-<a href="https://github.com/YtbPanda1211/Random-Pass-1/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Random-Pass-1&theme=radical" />
-</a>
-<a href="https://github.com/YtbPanda1211/QR-Code/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=QR-Code&theme=radical" />
-</a>
-<a href="https://github.com/YtbPanda1211/Check-Speed/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Check-Speed&theme=radical" />
-</a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/TextToVoice&theme=Solarized Dark" />
+</a> 
 <a href="https://github.com/YtbPanda1211/Language-Translation/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Language-Translation&theme=radical" />
-</a>
-<a href="https://github.com/YtbPanda1211/Game-Snake/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Game-Snake&theme=radical" />
-</a>
-<a href="https://github.com/YtbPanda1211/Do-Min/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Do-Min&theme=radical" />
-</a>
-<a href="https://github.com/YtbPanda1211/Q-A/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Q-A&theme=radical" />
-</a>
-<a href="https://github.com/YtbPanda1211/Happy-Birthday/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Happy-Birthday&theme=gruvbox" />
-</a>
-<a href="https://github.com/YtbPanda1211/Greeting-Card/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Greeting-Card&theme=gruvbox" />
-</a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/Language-Translation&theme=Solarized Light" />
+</a> 
 <a href="https://github.com/YtbPanda1211/Bio-Card-1/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Bio-Card-1&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/Bio-Card-1&theme=Monokai" />
 </a>
 <a href="https://github.com/YtbPanda1211/Q-A-3D/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Q-A-3D&theme=gruvbox" />
-</a>
-<a href="https://github.com/YtbPanda1211/Bio-Card-2/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Bio-Card-2&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/Q-A-3D&theme=Monokai Pro" />
 </a>
 <a href="https://github.com/YtbPanda1211/Clock-3D/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Clock-3D&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/Clock-3D&theme=Night Owl" />
 </a>
 <a href="https://github.com/YtbPanda1211/Bio-Card-3/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Bio-Card-3&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/Bio-Card-3&theme=Kanagawa" />
 </a>
-<a href="https://github.com/YtbPanda1211/Random-Pass-2/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Random-Pass-2&theme=gruvbox" />
-</a>
-<a href="https://github.com/YtbPanda1211/Pocket-Calculator/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Pocket-Calculator&theme=gruvbox" />
-</a>
-<a href="https://github.com/YtbPanda1211/QR-Code-Generator/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=QR-Code-Generator&theme=gruvbox" />
-</a>
-<a href="https://github.com/YtbPanda1211/To-Do-List/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=To-Do-List&theme=cobalt" />
-</a>
-<a href="https://github.com/YtbPanda1211/Analog-Clock/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Analog-Clock&theme=cobalt" />
-</a>
-<a href="https://github.com/YtbPanda1211/Snake-Game/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Snake-Game&theme=cobalt" />
-</a>
-<a href="https://github.com/YtbPanda1211/2048-Game/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=2048-Game&theme=cobalt" />
-</a>
-<a href="https://github.com/YtbPanda1211/Form-Login-Or-Sign-Up/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Form-Login-Or-Sign-Up&theme=cobalt" />
+<a href="https://github.com/YtbPanda1211/Q-A/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/Q-A&theme=Rose Pine" />
 </a>
 <a href="https://github.com/YtbPanda1211/Black-Jack/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Black-Jack&theme=cobalt" />
-</a>
-<a href="https://github.com/YtbPanda1211/LoginOrSignup/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=LoginOrSignup&theme=cobalt" />
-</a>
-<a href="https://github.com/YtbPanda1211/Tetris-Master/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Tetris-Master&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/Black-Jack&theme=Palenight" />
 </a>
 <a href="https://github.com/YtbPanda1211/HangMan-Game/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=HangMan-Game&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/HangMan-Game&theme=Palenight"/>
 </a>
 <a href="https://github.com/YtbPanda1211/Chess-Game/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Chess-Game&theme=cobalt" />
-</a>
-<a href="https://github.com/YtbPanda1211/Light-Mode-Clock/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Light-Mode-Clock&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/Chess-Game&theme=Everforest"/>
 </a>
 <a href="https://github.com/YtbPanda1211/Chess-PvP/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Chess-PvP&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/Chess-PvP&theme=Ayu Mirage"/>
 </a>
-<a href="https://github.com/YtbPanda1211/Flappy-Bird/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Flappy-Bird&theme=synthwave" />
+<a href="https://github.com/YtbPanda1211/VideoToText/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/VideoToText&theme=synthwave"/>
 </a>
-<a href="https://github.com/YtbPanda1211/Candy-Crush/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Candy-Crush&theme=synthwave" />
+<a href="https://github.com/YtbPanda1211/FileBot/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/FileBot&theme=radical"/>
 </a>
-<a href="https://github.com/YtbPanda1211/HappyNewYear/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=HappyNewYear&theme=synthwave" />
+<a href="https://github.com/YtbPanda1211/CD22LT-THUD/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/CD22LT-THUD&theme=gruvbox"/>
 </a>
-<a href="https://github.com/YtbPanda1211/GiangSinh/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=GiangSinh&theme=synthwave" />
+<a href="https://github.com/YtbPanda1211/Share-Web-Demo/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/Share-Web-Demo&theme=dark"/>
 </a>
-<a href="https://github.com/YtbPanda1211/Meteor_Shooting_Game/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Meteor_Shooting_Game&theme=synthwave" />
+<a href="https://github.com/YtbPanda1211/Share-Web-Demo/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/Share-Web-Demo&theme=cobalt"/>
 </a>
-<a href="https://github.com/YtbPanda1211/Pokemon-JS/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Pokemon-JS&theme=synthwave" />
+<a href="https://github.com/YtbPanda1211/ClimaCode/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/ClimaCode&theme=highcontrast"/>
 </a>
-<a href="https://github.com/YtbPanda1211/Personal_Portfolio/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Personal_Portfolio&theme=synthwave" />
+<a href="https://github.com/YtbPanda1211/thutinh/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/thutinh&theme=dracula"/>
 </a>
-<a href="https://github.com/YtbPanda1211/Food_Website/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Food_Website&theme=synthwave" />
+<a href="https://github.com/YtbPanda1211/HopeSheet/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/HopeSheet&theme=merko"/>
 </a>
-<a href="https://github.com/YtbPanda1211/Happy-New-Year-2024/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Happy-New-Year-2024&theme=synthwave" />
+<a href="https://github.com/YtbPanda1211/PhotoBooth2/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/PhotoBooth2&theme=LaserWave"/>
 </a>
-<a href="https://github.com/YtbPanda1211/FileBot">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=FileBot&theme=highcontrast" />
+<a href="https://github.com/YtbPanda1211/YtbPanda1211/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/YtbPanda1211&theme=Bluloco"/>
 </a>
-<a href="https://github.com/YtbPanda1211/CD22LT-THUD">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=CD22LT-THUD&theme=highcontrast" />
+<a href="https://github.com/YtbPanda1211/RandomTarot/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/RandomTarot&theme=Cyberpunk"/>
 </a>
-<a href="https://github.com/YtbPanda1211/Game">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Game&theme=highcontrast" />
+<a href="https://github.com/YtbPanda1211/voice-activated-audio-recorder/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=/voice-activated-audio-recorder&theme=Andromeda"/>
 </a>
-<a href="https://github.com/YtbPanda1211/Share-Web-Demo">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Share-Web-Demo&theme=merko" />
-</a>
-<a href="https://github.com/YtbPanda1211/Happy-New-Year-2025">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Happy-New-Year-2025&theme=merko" />
-</a>
-<a href="https://github.com/YtbPanda1211/Phao-Hoa-2025/ ">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Phao-Hoa-2025&theme=merko" />
-</a>
-<a href="https://github.com/YtbPanda1211/ClimaCode/ ">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=ClimaCode&theme=merko" />
-</a>
-<a href="https://github.com/YtbPanda1211/8_3_day">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=8_3_day&theme=merko" />
-</a>
-<a href="https://github.com/YtbPanda1211/flower-master">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=flower-master&theme=merko" />
-</a>
-<a href="https://github.com/YtbPanda1211/thutinh">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=thutinh&theme=merko" />
-</a>
-<a href="https://github.com/YtbPanda1211/HopeSheet">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=HopeSheet&theme=merko" />
-</a>
-<a href="https://github.com/YtbPanda1211/PhotoBooth2">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=PhotoBooth2&theme=merko" />
-</a>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
