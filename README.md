@@ -69,47 +69,44 @@
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YtbPanda1211&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 ㅤㅤㅤㅤㅤㅤㅤㅤ <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="150" width="150" >
 
-
-
-
 <a href="https://github.com/YtbPanda1211/webdoan/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=webdoan&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=webdoan&theme=radical"/>
 </a>   
 <a href="https://github.com/YtbPanda1211/TC19THUD1/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TC19THUD1&theme=One Dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TC19THUD1&theme=One Dark"/>
 </a> 
 <a href="https://github.com/YtbPanda1211/AndroidStudio/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=AndroidStudio&theme=One Light" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=AndroidStudio&theme=One Light"/>
 </a> 
 <a href="https://github.com/YtbPanda1211/SQL_Class/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=SQL_Class&theme=Nord" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=SQL_Class&theme=Nord"/>
 </a> 
 <a href="https://github.com/YtbPanda1211/CodepenClone/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=CodepenClone&theme=Tokyo Night" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=CodepenClone&theme=Tokyo Night"/>
 </a> 
 <a href="https://github.com/YtbPanda1211/TinhThoiGian/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TinhThoiGian&theme=Catppuccin" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TinhThoiGian&theme=Catppuccin"/>
 </a> 
 <a href="https://github.com/YtbPanda1211/TextToVoice/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TextToVoice&theme=Solarized Dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=TextToVoice&theme=Solarized Dark"/>
 </a> 
 <a href="https://github.com/YtbPanda1211/Language-Translation/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Language-Translation&theme=Solarized Light" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Language-Translation&theme=Solarized Light"/>
 </a> 
 <a href="https://github.com/YtbPanda1211/Bio-Card-1/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Bio-Card-1&theme=Monokai" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Bio-Card-1&theme=Monokai"/>
 </a>
 <a href="https://github.com/YtbPanda1211/Q-A-3D/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Q-A-3D&theme=Monokai Pro" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Q-A-3D&theme=Monokai Pro"/>
 </a>
 <a href="https://github.com/YtbPanda1211/Clock-3D/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Clock-3D&theme=Night Owl" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Clock-3D&theme=Night Owl"/>
 </a>
 <a href="https://github.com/YtbPanda1211/Bio-Card-3/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Bio-Card-3&theme=Kanagawa" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Bio-Card-3&theme=Kanagawa"/>
 </a>
 <a href="https://github.com/YtbPanda1211/Q-A/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Q-A&theme=Rose Pine" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Q-A&theme=Rose Pine"/>
 </a>
 <a href="https://github.com/YtbPanda1211/Black-Jack/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Black-Jack&theme=Palenight" />
