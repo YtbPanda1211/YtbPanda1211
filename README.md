@@ -115,8 +115,8 @@
 <a href="https://github.com/YtbPanda1211/ClimaCode/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=ClimaCode&theme=merko"/>
 </a>
-<a href="https://github.com/YtbPanda1211/thutinh/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=thutinh&theme=gruvbox"/>
+<a href="https://github.com/YtbPanda1211/RubikLab/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=RubikLab&theme=gruvbox"/>
 </a>
 <a href="https://github.com/YtbPanda1211/HopeSheet/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=HopeSheet&theme=tokyonight"/>
