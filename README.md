@@ -127,8 +127,8 @@
 <a href="https://github.com/YtbPanda1211/YtbPanda1211/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=YtbPanda1211&theme=cobalt"/>
 </a>
-<a href="https://github.com/YtbPanda1211/RandomTarot/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=RandomTarot&theme=synthwave"/>
+<a href="https://github.com/YtbPanda1211/RandomFoodAndDrink/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=RandomFoodAndDrink&theme=synthwave"/>
 </a>
 <a href="https://github.com/YtbPanda1211/voice-activated-audio-recorder/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=voice-activated-audio-recorder&theme=highcontrast"/>
