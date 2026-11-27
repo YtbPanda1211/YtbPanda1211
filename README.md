@@ -133,8 +133,8 @@
 <a href="https://github.com/YtbPanda1211/voice-activated-audio-recorder/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=voice-activated-audio-recorder&theme=highcontrast"/>
 </a>
-<a href="https://github.com/YtbPanda1211/RiceFieldAI/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=RiceFieldAI&theme=dark"/>
+<a href="https://github.com/YtbPanda1211/RiceField-Spirituality/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=RiceField-Spirituality&theme=dark"/>
 </a>
 
 ### ✍️ Random Dev Quote
