@@ -139,6 +139,9 @@
 <a href="https://github.com/YtbPanda1211/Rice-Field-Visual-Led/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Rice-Field-Visual-Led&theme=radical"/>
 </a> 
+<a href="https://github.com/YtbPanda1211/Chat-AI/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Chat-AI&theme=merko"/>
+</a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
