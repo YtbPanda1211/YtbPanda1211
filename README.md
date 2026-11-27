@@ -136,6 +136,9 @@
 <a href="https://github.com/YtbPanda1211/RiceField-Spirituality/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=RiceField-Spirituality&theme=dark"/>
 </a>
+<a href="https://github.com/YtbPanda1211/Rice-Field-Visual-Led/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=YtbPanda1211&repo=Rice-Field-Visual-Led&theme=radical"/>
+</a> 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
